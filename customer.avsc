@@ -16,5 +16,6 @@
      {"name": "postalCode", "type": "string"},
      {"name": "city", "type": "string"},
      {"name": "street", "type": "string"},
+     {"name": "partitionDate", "type": "string"}
  ]
 }
